@@ -6,7 +6,7 @@ FLUTTER 2.0 SÜRÜMÜ İLE YENİLENEN BUTONLAR.
 Hepsinin Renk olarak örnekleri ve tıklanma olayları yapıldı.
 
 Disable için onPress kısmına onPress: null yapmak yeterli.
-
+ 
 Sayfa Yönlendirmesi için:
   Navigator.push(
     context,
