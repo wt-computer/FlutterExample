@@ -1,7 +1,7 @@
 /*
   ELEVATED - TEXT - OUTLINE / THEME
 
-FLUTTER 2.1 SÜRÜMÜ İLE YENİLENEN BUTONLAR.
+FLUTTER 2.? SÜRÜMÜ İLE YENİLENEN BUTONLAR.
 
 Hepsinin Renk olarak örnekleri ve tıklanma olayları yapıldı.
 
