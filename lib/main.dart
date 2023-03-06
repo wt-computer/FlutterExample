@@ -12,7 +12,7 @@ Sayfa Yönlendirmesi için:
     context,
     MaterialPageRoute(builder: (context) => HomePage()),
   );
-
+ 
   
 Sayfa geri butonu olmadan önceki sayfa için:
   Navigator.pop(context);
